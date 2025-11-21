@@ -2,40 +2,29 @@ class Solution {
 public:
     int countPalindromicSubsequence(string s) {
 
+        vector<int> first(26, -1), last(26, -1);
+
         int n = s.size();
 
-        unordered_map<char, tuple<int,int,int>> mp;
-
-        for(int i = 0; i < n; i++){
-            if(!mp.count(s[i])){
-                mp[s[i]] = {i, i, 1};
-            }
-            else{
-                get<1>(mp[s[i]]) = i; 
-                get<2>(mp[s[i]]) ++; 
-            }
-
+        for (int i = 0; i < n; i++) {
+            int c = s[i] - 'a';
+            if (first[c] == -1) first[c] = i;
+            last[c] = i;
         }
 
         int count = 0;
 
-        for(auto &[ch, t]: mp){
+        for (int c = 0; c < 26; c++) {
 
-            auto &[start, end, freq] = t;
+            if (first[c] == -1 || last[c] - first[c] < 2) continue;
 
-            unordered_set<char> unique;
-
-            if(end - start + 1 >= 3){
-
-                for(int i = start + 1; i < end; i++){
-                    unique.insert(s[i]);
-                }
-
-                count = count + (int)unique.size();
-            } 
+            unordered_set<char> mid;
+            for (int i = first[c] + 1; i < last[c]; i++) {
+                mid.insert(s[i]);
+            }
+            count += mid.size();
         }
 
         return count;
-
     }
 };
