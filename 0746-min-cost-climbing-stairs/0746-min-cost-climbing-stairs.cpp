@@ -1,17 +1,15 @@
 class Solution {
 public:
     int minCostClimbingStairs(vector<int>& cost) {
-        int prev2 = 0, prev1 = 0;
+        int n = cost.size();
 
-        for (int i = 2; i <= cost.size(); i++) {
+        vector<int> dp(n+2, 0);
 
-            int cur = min(prev1 + cost[i-1], prev2 + cost[i-2]);
-
-            prev2 = prev1;
-            prev1 = cur;
-
+        for (int i = n - 1; i >= 0; --i) {
+            dp[i] = cost[i] + min(dp[i+1], dp[i+2]);
         }
         
-        return prev1;
+        return min(dp[0], dp[1]);
     }
+
 };
