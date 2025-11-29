@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/ashishkrchy/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
