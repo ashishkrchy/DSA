@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
+| [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ashishkrchy/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -87,10 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashishkrchy/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
