@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ashishkrchy/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ashishkrchy/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashishkrchy/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ashishkrchy/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ashishkrchy/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
