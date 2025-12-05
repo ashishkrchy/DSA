@@ -3,17 +3,18 @@ public:
 
     const int LIMIT = 20000;
 
-    bool bfs(vector<int>& start, vector<int>& target, unordered_set<string>& blockedSet) {
+    long long makeKey(int x, int y){
+        return (long long)1000000 * x + y;
+    }
+
+    bool bfs(vector<int>& start, vector<int>& target, unordered_set<long long>& blockedSet) {
 
         vector<int> dx = {0, 0, -1, 1}; 
         vector<int> dy = {-1, 1, 0, 0}; 
 
         queue<pair<int,int>> q;
-        unordered_set<string> visited;
+        unordered_set<long long> visited;
 
-        auto makeKey = [&](int x, int y){
-            return to_string(x) + "_" + to_string(y);
-        };
 
         q.push({start[0], start[1]});
         visited.insert(makeKey(start[0], start[1]));
@@ -33,7 +34,7 @@ public:
                 if(x < 0 || y < 0 || x >= 1000000 || y >= 1000000) 
                     continue;
 
-                string key = makeKey(x, y);
+                long long key = makeKey(x, y);
 
                 if(!blockedSet.count(key) && !visited.count(key)){
                     visited.insert(key);
@@ -47,10 +48,10 @@ public:
 
     bool isEscapePossible(vector<vector<int>>& blocked, vector<int>& source, vector<int>& target) {
 
-        unordered_set<string> blockedSet;
+        unordered_set<long long> blockedSet;
 
         for (auto &b : blocked) {
-            string key = to_string(b[0]) + "_" + to_string(b[1]);
+            long long key = makeKey(b[0], b[1]);
             blockedSet.insert(key);
         }
     
