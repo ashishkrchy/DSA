@@ -1,54 +1,31 @@
-#include <bits/stdc++.h>
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp>
-
-using namespace std;
-using namespace __gnu_pbds;
-
-
-using pii = pair<int,int>;
-
-using ordered_multiset = tree<
-    pii,
-    null_type,
-    less<pii>,
-    rb_tree_tag,
-    tree_order_statistics_node_update
->;
-
 class MedianFinder {
 public:
-    ordered_multiset st;
-    int id;
+    priority_queue<int> maxHeap;            
+    priority_queue<int, vector<int>, greater<int>> minHeap; 
 
-    MedianFinder() : id(0) {}
+    MedianFinder() {}
 
     void addNum(int num) {
-        st.insert({num, id++});
+        
+        if (maxHeap.empty() || num <= maxHeap.top())
+            maxHeap.push(num);
+        else
+            minHeap.push(num);
+
+        if (maxHeap.size() > minHeap.size() + 1) {
+            minHeap.push(maxHeap.top());
+            maxHeap.pop();
+        }
+        else if (minHeap.size() > maxHeap.size()) {
+            maxHeap.push(minHeap.top());
+            minHeap.pop();
+        }
     }
 
     double findMedian() {
-        int n = (int)st.size();
-        if (n == 0) return 0.0; 
-
-        if (n % 2 == 1) {
-            
-            auto it = st.find_by_order(n / 2);
-            return (double)it->first;
-        } else {
-            
-            auto it1 = st.find_by_order(n / 2 - 1);
-            auto it2 = st.find_by_order(n / 2);
-            long long a = it1->first;
-            long long b = it2->first;
-            return (a + b) / 2.0;
+        if (maxHeap.size() == minHeap.size()) {
+            return (maxHeap.top() + minHeap.top()) / 2.0;
         }
+        return maxHeap.top();
     }
 };
-
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * MedianFinder* obj = new MedianFinder();
- * obj->addNum(num);
- * double param_2 = obj->findMedian();
- */
