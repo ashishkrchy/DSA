@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/ashishkrchy/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ashishkrchy/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Interactive
 |  |
