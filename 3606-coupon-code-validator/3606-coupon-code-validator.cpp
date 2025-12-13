@@ -4,33 +4,33 @@ public:
 
         int n = code.size();
 
-        unordered_set<string> businessSet = {"electronics", "grocery", "pharmacy", "restaurant"};
+        unordered_set<string> businessSet = {
+            "electronics", "grocery", "pharmacy", "restaurant"
+        };
 
-        multiset<pair<string, string>> st;
+        vector<pair<string, string>> valid; // {business, code}
 
-        auto isValid = [&](string str){
+        auto isValid = [](const string& str) {
+            if (str.empty()) return false;
 
-            if(str == "") return false;
-
-            for(auto w: str){
-                
-                if((w >= 65 && w <= 90) || (w >= 97 && w <= 122) || (w == 95) || (w >= 48 && w <= 57)) continue;
-                else return false;
-
+            for (char c : str) {
+                if (!isalnum(c) && c != '_')
+                    return false;
             }
             return true;
         };
 
-        for(int i = 0; i < n; i++){
-            if(isActive[i] && businessSet.count(businessLine[i]) && isValid(code[i])){
-                st.insert({businessLine[i], code[i]});
+        for (int i = 0; i < n; i++) {
+            if (isActive[i] && businessSet.count(businessLine[i]) && isValid(code[i])) {
+                valid.push_back({businessLine[i], code[i]});
             }
         }
 
-        vector<string> res;
+        sort(valid.begin(), valid.end());
 
-        for(auto [business, cod]: st){
-            res.push_back(cod);
+        vector<string> res;
+        for (auto& p : valid) {
+            res.push_back(p.second);
         }
 
         return res;
