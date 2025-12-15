@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashishkrchy/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/ashishkrchy/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ashishkrchy/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashishkrchy/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/ashishkrchy/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
