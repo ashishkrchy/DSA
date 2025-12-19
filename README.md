@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0830-positions-of-large-groups](https://github.com/ashishkrchy/DSA/tree/master/0830-positions-of-large-groups) |
+| [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/ashishkrchy/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
