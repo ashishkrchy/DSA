@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ashishkrchy/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ashishkrchy/DSA/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/ashishkrchy/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashishkrchy/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/ashishkrchy/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Interactive
 |  |
 | ------- |
