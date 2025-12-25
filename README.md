@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashishkrchy/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ashishkrchy/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashishkrchy/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ashishkrchy/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/ashishkrchy/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashishkrchy/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/ashishkrchy/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ashishkrchy/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 ## Counting Sort
 |  |
