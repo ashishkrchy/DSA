@@ -1,48 +1,46 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-
-    // dp[pos][patIdx]: number of ways to match pattern[patIdx..4]
-    // using s[pos..end]
     int dp[10001][5];
+    const int MOD = 1e9 + 7;
 
-    int countWays(int pos, int patIdx, const string &s, const vector<char> &pattern) {
-        if (patIdx == 5) return 1;          // pattern fully matched
-        if (pos == s.size()) return 0;      // string exhausted
+    int countWays(int i, string &s, int j, vector<char> &pattern){
+        if(j == 5) return 1;
 
-        int &res = dp[pos][patIdx];
-        if (res != -1) return res;
+        if(i == s.size()) return 0;
 
-        long long take = 0, skip = 0;
+        // int res = dp[i][j];
 
-        // Take current character if it matches,
-        // or if we are at the wildcard position (index 2)
-        if (patIdx == 2 || s[pos] == pattern[patIdx]) {
-            take = countWays(pos + 1, patIdx + 1, s, pattern);
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int take = 0;
+
+        if(pattern[j] == '_' || s[i] == pattern[j]){
+            take = countWays(i + 1, s, j + 1, pattern);
         }
 
-        // Skip current character
-        skip = countWays(pos + 1, patIdx, s, pattern);
+        int skip = countWays(i + 1, s, j, pattern);
 
-        return res = (take + skip) % MOD;
+        return dp[i][j] = (take + skip) % MOD;
     }
 
     int countPalindromes(string s) {
+
         int n = s.size();
-        long long answer = 0;
 
-        // Fix x and y in palindrome pattern: x y _ y x
-        for (char x = '0'; x <= '9'; x++) {
-            
-            for (char y = '0'; y <= '9'; y++) {
+        int count = 0;
 
-                vector<char> pattern = {x, y, 0, y, x};
+        for(char x = '0' ; x <= '9' ; x++){
+
+            for(char y = '0'; y <= '9'; y++){
+
+                vector<char> pattern = {x, y, '_', y, x};
 
                 memset(dp, -1, sizeof(dp));
-                answer = (answer + countWays(0, 0, s, pattern)) % MOD;
+
+                count = (count + countWays(0, s, 0, pattern)) % MOD;
             }
         }
 
-        return answer;
+        return count;
     }
 };
