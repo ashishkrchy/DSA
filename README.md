@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2402-meeting-rooms-iii](https://github.com/ashishkrchy/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2402-meeting-rooms-iii](https://github.com/ashishkrchy/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashishkrchy/DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2402-meeting-rooms-iii](https://github.com/ashishkrchy/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ashishkrchy/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ashishkrchy/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ashishkrchy/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ashishkrchy/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/ashishkrchy/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/ashishkrchy/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/ashishkrchy/DSA/tree/master/3433-count-mentions-per-user) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashishkrchy/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
