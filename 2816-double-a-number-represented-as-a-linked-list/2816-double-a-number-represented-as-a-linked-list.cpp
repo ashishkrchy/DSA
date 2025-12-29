@@ -11,32 +11,35 @@
 class Solution {
 public:
 
-    void dfs(ListNode* node, int &carry){
-
-        if(node == NULL) return;
-
-        dfs(node->next, carry);
-
-        int val = (node->val * 2);
-
-        int finalVal = val + carry;
-
-        node->val = finalVal % 10;
-
-        carry = finalVal / 10;
+    ListNode* reverse(ListNode* head){
+        ListNode* prev = NULL;
+        while(head){
+            ListNode* nxt = head->next;
+            head->next = prev;
+            prev = head;
+            head = nxt;
+        }
+        return prev;
     }
 
     ListNode* doubleIt(ListNode* head) {
-        int carry = 0;
-        
-        dfs(head, carry);
+        head = reverse(head);
 
-        if(carry != 0){
-            ListNode* newHead = new ListNode(carry);
-            newHead->next = head;
-            return newHead;
+        int carry = 0;
+        ListNode* curr = head;
+
+        while(curr){
+            int sum = curr->val * 2 + carry;
+            curr->val = sum % 10;
+            carry = sum / 10;
+
+            if(!curr->next && carry)
+                curr->next = new ListNode(0);
+
+            curr = curr->next;
         }
 
-        return head;
+        return reverse(head);
     }
+
 };
