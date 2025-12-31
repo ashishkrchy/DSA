@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ashishkrchy/DSA/tree/master/0051-n-queens) |
+| [0300-longest-increasing-subsequence](https://github.com/ashishkrchy/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishkrchy/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishkrchy/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/ashishkrchy/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ashishkrchy/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/ashishkrchy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
