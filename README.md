@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2402-meeting-rooms-iii](https://github.com/ashishkrchy/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2484-count-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2484-count-palindromic-subsequences) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ashishkrchy/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2484-count-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2484-count-palindromic-subsequences) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
