@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ashishkrchy/DSA/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/ashishkrchy/DSA/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkrchy/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishkrchy/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ashishkrchy/DSA/tree/master/0066-plus-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [0840-magic-squares-in-grid](https://github.com/ashishkrchy/DSA/tree/master/0840-magic-squares-in-grid) |
