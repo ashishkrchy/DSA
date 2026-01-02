@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishkrchy/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/ashishkrchy/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashishkrchy/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishkrchy/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ashishkrchy/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/ashishkrchy/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashishkrchy/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ashishkrchy/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashishkrchy/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
