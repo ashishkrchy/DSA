@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ashishkrchy/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashishkrchy/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ashishkrchy/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ashishkrchy/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ashishkrchy/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashishkrchy/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashishkrchy/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ashishkrchy/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishkrchy/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Greedy
 |  |
