@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishkrchy/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishkrchy/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/ashishkrchy/DSA/tree/master/0830-positions-of-large-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
+| [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2484-count-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2484-count-palindromic-subsequences) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ashishkrchy/DSA/tree/master/0561-array-partition) |
+| [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Sliding Window
 |  |
