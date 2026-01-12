@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ashishkrchy/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1797-design-authentication-manager](https://github.com/ashishkrchy/DSA/tree/master/1797-design-authentication-manager) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishkrchy/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ashishkrchy/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1797-design-authentication-manager](https://github.com/ashishkrchy/DSA/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/ashishkrchy/DSA/tree/master/1669-merge-in-between-linked-lists) |
+| [1797-design-authentication-manager](https://github.com/ashishkrchy/DSA/tree/master/1797-design-authentication-manager) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashishkrchy/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashishkrchy/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/ashishkrchy/DSA/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
