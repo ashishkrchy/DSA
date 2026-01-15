@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
 | [1109-corporate-flight-bookings](https://github.com/ashishkrchy/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ashishkrchy/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ashishkrchy/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ashishkrchy/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ashishkrchy/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashishkrchy/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ashishkrchy/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ashishkrchy/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/ashishkrchy/DSA/tree/master/1390-four-divisors) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ashishkrchy/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashishkrchy/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/ashishkrchy/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
