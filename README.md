@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishkrchy/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ashishkrchy/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ashishkrchy/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ashishkrchy/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 ## Prefix Sum
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ashishkrchy/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ashishkrchy/DSA/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ashishkrchy/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ashishkrchy/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ashishkrchy/DSA/tree/master/3433-count-mentions-per-user) |
