@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/ashishkrchy/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ashishkrchy/DSA/tree/master/0566-reshape-the-matrix) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ashishkrchy/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashishkrchy/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/ashishkrchy/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ashishkrchy/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/ashishkrchy/DSA/tree/master/0561-array-partition) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ashishkrchy/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishkrchy/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishkrchy/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/ashishkrchy/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ashishkrchy/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Design
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/ashishkrchy/DSA/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ashishkrchy/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ashishkrchy/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashishkrchy/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
