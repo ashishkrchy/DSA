@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ashishkrchy/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ashishkrchy/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/ashishkrchy/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ashishkrchy/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ashishkrchy/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ashishkrchy/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ashishkrchy/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/ashishkrchy/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
