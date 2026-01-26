@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/ashishkrchy/DSA/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ashishkrchy/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/ashishkrchy/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1200-minimum-absolute-difference](https://github.com/ashishkrchy/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ashishkrchy/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ashishkrchy/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishkrchy/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/ashishkrchy/DSA/tree/master/0561-array-partition) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ashishkrchy/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1200-minimum-absolute-difference](https://github.com/ashishkrchy/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishkrchy/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
