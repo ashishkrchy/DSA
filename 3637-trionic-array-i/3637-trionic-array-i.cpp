@@ -20,10 +20,8 @@ public:
         
         for(int i = 1; i < n; i++){
             if(isIncreasing(nums, 0, i)){
-                cout<<i<<" ";
                 for(int j = i + 1; j < n - 1; j++){
                     if(isDecreasing(nums, i, j) && isIncreasing(nums, j, n - 1)){
-                        cout<<j<<endl;
                         return true;
                     } 
                 }
