@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/ashishkrchy/DSA/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/ashishkrchy/DSA/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ashishkrchy/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashishkrchy/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashishkrchy/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashishkrchy/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3640-trionic-array-ii](https://github.com/ashishkrchy/DSA/tree/master/3640-trionic-array-ii) |
 ## Matrix
 |  |
 | ------- |
