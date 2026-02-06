@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ashishkrchy/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ashishkrchy/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ashishkrchy/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ashishkrchy/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ashishkrchy/DSA/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ashishkrchy/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/ashishkrchy/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ashishkrchy/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashishkrchy/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ashishkrchy/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ashishkrchy/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ashishkrchy/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Two Pointers
