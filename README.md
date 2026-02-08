@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ashishkrchy/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2484-count-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2484-count-palindromic-subsequences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashishkrchy/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ashishkrchy/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ashishkrchy/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/ashishkrchy/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ashishkrchy/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2370-longest-ideal-subsequence](https://github.com/ashishkrchy/DSA/tree/master/2370-longest-ideal-subsequence) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ashishkrchy/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashishkrchy/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Geometry
 |  |
