@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3829-design-ride-sharing-system](https://github.com/ashishkrchy/DSA/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ashishkrchy/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1797-design-authentication-manager](https://github.com/ashishkrchy/DSA/tree/master/1797-design-authentication-manager) |
+| [3829-design-ride-sharing-system](https://github.com/ashishkrchy/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ashishkrchy/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishkrchy/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3829-design-ride-sharing-system](https://github.com/ashishkrchy/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/ashishkrchy/DSA/tree/master/3828-final-element-after-subarray-deletions) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/ashishkrchy/DSA/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
