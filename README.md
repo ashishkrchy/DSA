@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ashishkrchy/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ashishkrchy/DSA/tree/master/3681-maximum-xor-of-subsequences) |
+| [3827-count-monobit-integers](https://github.com/ashishkrchy/DSA/tree/master/3827-count-monobit-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -382,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/ashishkrchy/DSA/tree/master/1797-design-authentication-manager) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/ashishkrchy/DSA/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
