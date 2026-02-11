@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ashishkrchy/DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/ashishkrchy/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ashishkrchy/DSA/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkrchy/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishkrchy/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ashishkrchy/DSA/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishkrchy/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishkrchy/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ashishkrchy/DSA/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/ashishkrchy/DSA/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/ashishkrchy/DSA/tree/master/0561-array-partition) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashishkrchy/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
