@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/ashishkrchy/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishkrchy/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashishkrchy/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3829-design-ride-sharing-system](https://github.com/ashishkrchy/DSA/tree/master/3829-design-ride-sharing-system) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2484-count-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2484-count-palindromic-subsequences) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/ashishkrchy/DSA/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3606-coupon-code-validator](https://github.com/ashishkrchy/DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishkrchy/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ashishkrchy/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishkrchy/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/ashishkrchy/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3827-count-monobit-integers](https://github.com/ashishkrchy/DSA/tree/master/3827-count-monobit-integers) |
 ## Brainteaser
 |  |
