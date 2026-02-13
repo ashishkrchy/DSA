@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishkrchy/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0819-most-common-word](https://github.com/ashishkrchy/DSA/tree/master/0819-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/ashishkrchy/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ashishkrchy/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashishkrchy/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishkrchy/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0472-concatenated-words](https://github.com/ashishkrchy/DSA/tree/master/0472-concatenated-words) |
+| [0819-most-common-word](https://github.com/ashishkrchy/DSA/tree/master/0819-most-common-word) |
 | [0830-positions-of-large-groups](https://github.com/ashishkrchy/DSA/tree/master/0830-positions-of-large-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1360-number-of-days-between-two-dates](https://github.com/ashishkrchy/DSA/tree/master/1360-number-of-days-between-two-dates) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ashishkrchy/DSA/tree/master/0566-reshape-the-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ashishkrchy/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashishkrchy/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0819-most-common-word](https://github.com/ashishkrchy/DSA/tree/master/0819-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/ashishkrchy/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ashishkrchy/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashishkrchy/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ashishkrchy/DSA/tree/master/0561-array-partition) |
+| [0819-most-common-word](https://github.com/ashishkrchy/DSA/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ashishkrchy/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1370-increasing-decreasing-string](https://github.com/ashishkrchy/DSA/tree/master/1370-increasing-decreasing-string) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
