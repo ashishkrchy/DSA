@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ashishkrchy/DSA/tree/master/0190-reverse-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishkrchy/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ashishkrchy/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ashishkrchy/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishkrchy/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ashishkrchy/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
