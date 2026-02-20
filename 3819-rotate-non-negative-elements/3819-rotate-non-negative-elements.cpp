@@ -2,31 +2,27 @@ class Solution {
 public:
     vector<int> rotateElements(vector<int>& nums, int k) {
 
+        vector<int> pos;  
         int n = nums.size();
-        
-        vector<int> temp;
 
-        for(int i = 0; i < n; i++){
-            if(nums[i] >= 0) temp.push_back(i);
+        for(int x : nums) {
+            if(x >= 0) pos.push_back(x);
         }
 
-        if(temp.empty()) return nums;
+        if(pos.empty()) return nums;
 
-        k = k > temp.size() ? k % temp.size(): k;
+        k %= pos.size();
 
-        reverse(temp.begin(), temp.begin() + k);
-        reverse(temp.begin() + k, temp.end());
-        reverse(temp.begin(), temp.end());
+        reverse(pos.begin(), pos.begin() + k);
+        reverse(pos.begin() + k, pos.end());
+        reverse(pos.begin(), pos.end());
 
-        vector<int> res(n, 0);
+        vector<int> res = nums;
 
         int j = 0;
-
-        for(int i = 0; i < n; i++){
-            if(nums[i] < 0) res[i] = nums[i];
-            else{
-                res[i] = nums[temp[j]];
-                j++;
+        for(int i = 0; i < n; i++) {
+            if(nums[i] >= 0) {
+                res[i] = pos[j++];
             }
         }
 
