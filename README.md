@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3681-maximum-xor-of-subsequences](https://github.com/ashishkrchy/DSA/tree/master/3681-maximum-xor-of-subsequences) |
 | [3719-longest-balanced-subarray-i](https://github.com/ashishkrchy/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3819-rotate-non-negative-elements](https://github.com/ashishkrchy/DSA/tree/master/3819-rotate-non-negative-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/ashishkrchy/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Math
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/ashishkrchy/DSA/tree/master/3433-count-mentions-per-user) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashishkrchy/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/ashishkrchy/DSA/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3819-rotate-non-negative-elements](https://github.com/ashishkrchy/DSA/tree/master/3819-rotate-non-negative-elements) |
 ## Segment Tree
 |  |
 | ------- |
